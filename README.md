@@ -1,2 +1,2 @@
-# aws-sns
-AWS SNS related resources for Infraxys
+# Infraxys module - AWS SNS
+
